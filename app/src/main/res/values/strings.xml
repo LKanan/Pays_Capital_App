@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Info Pays</string>
+    <string name="countryName1">Republique Democratique du Congo</string>
+    <string name="countryCapital1">Kinshasa</string>
+    <string name="countryCode1">+243</string>
+
+    <string name="countryName2">Burundi</string>
+    <string name="countryCapital2">Gitega</string>
+    <string name="countryCode2">+257</string>
+
+    <string name="countryName3">Egypte</string>
+    <string name="countryCapital3">Le Caire</string>
+    <string name="countryCode3">+20</string>
+
+    <string name="countryName4">Ethiopie</string>
+    <string name="countryCapital4">Addis-Abeba</string>
+    <string name="countryCode4">+251</string>
+
+    <string name="countryName5">Ghana</string>
+    <string name="countryCapital5">Accra</string>
+    <string name="countryCode5">+233</string>
+
+    <string name="countryName6">Kenya</string>
+    <string name="countryCapital6">Nairobi</string>
+    <string name="countryCode6">+254</string>
+
+    <string name="countryName7">Somalie</string>
+    <string name="countryCapital7">Mogadiscio</string>
+    <string name="countryCode7">+252</string>
+
+    <string name="countryName8">Tanzanie</string>
+    <string name="countryCapital8">Dodoma</string>
+    <string name="countryCode8">+255</string>
+
+    <string name="countryName9">Tunisie</string>
+    <string name="countryCapital9">Tunis</string>
+    <string name="countryCode9">+216</string>
+
+    <string name="countryName10">Uganda</string>
+    <string name="countryCapital10">Kampala</string>
+    <string name="countryCode10">+256</string>
+
+    <string name="countryName11">Zimbabwe</string>
+    <string name="countryCapital11">Harare</string>
+    <string name="countryCode11">+263</string>
+</resources>
