@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Info Pays</string>
+
     <string name="countryName1">Republique Democratique du Congo</string>
     <string name="countryCapital1">Kinshasa</string>
     <string name="countryCode1">+243</string>
@@ -43,4 +44,27 @@
     <string name="countryName11">Zimbabwe</string>
     <string name="countryCapital11">Harare</string>
     <string name="countryCode11">+263</string>
+
+    <string name="countryDescription1">La République Démocratique du Congo (RDC) est un beau pays</string>
+
+<!--    <string name="countryDescription2">Le Burundi, petit pays d&apos;Afrique de l&apos;Est, est connu pour ses paysages vallonnés et ses magnifiques lacs. Son économie repose principalement sur l&apos;agriculture et il possède une culture riche marquée par la musique et la danse traditionnelle.</string>-->
+
+<!--    <string name="countryDescription3">L&apos;Égypte, berceau de l&apos;une des plus anciennes civilisations du monde, est célèbre pour ses pyramides, le Sphinx et la vallée du Nil. Aujourd&apos;hui, c&apos;est un pays clé en Afrique du Nord avec une économie diversifiée et un riche patrimoine culturel.</string>-->
+
+<!--    <string name="countryDescription4">L&apos;Éthiopie, située dans la Corne de l&apos;Afrique, est connue pour son histoire ancienne, notamment le royaume d&apos;Aksoum et l&apos;origine supposée du café. C&apos;est l&apos;un des rares pays africains à n&apos;avoir jamais été colonisé.</string>-->
+
+<!--    <string name="countryDescription5">Le Ghana, en Afrique de l&apos;Ouest, est réputé pour son or, son cacao et son histoire liée au commerce transatlantique des esclaves. C&apos;est un pays stable politiquement avec une économie en croissance.</string>-->
+
+<!--    <string name="countryDescription6">Le Kenya, célèbre pour ses safaris et sa faune exceptionnelle, possède des paysages variés allant des plages de l&apos;océan Indien aux montagnes du Rift. Nairobi, sa capitale, est un centre économique majeur en Afrique de l&apos;Est.</string>-->
+
+<!--    <string name="countryDescription7">La Somalie, située dans la Corne de l&apos;Afrique, possède une longue côte le long de l&apos;océan Indien. Son peuple est connu pour son riche patrimoine nomade et son commerce maritime historique.</string>-->
+
+<!--    <string name="countryDescription8">La Tanzanie est célèbre pour le mont Kilimandjaro, Zanzibar et le parc national du Serengeti. C&apos;est l&apos;un des meilleurs endroits au monde pour observer la grande migration des gnous.</string>-->
+
+<!--    <string name="countryDescription9">La Tunisie, située en Afrique du Nord, est connue pour son histoire antique, notamment Carthage, et ses plages méditerranéennes. C&apos;est un pays à l&apos;économie diversifiée avec une culture influencée par les civilisations romaine et arabe.</string>-->
+
+<!--    <string name="countryDescription10">L&apos;Ouganda, surnommé la &quot;perle de l&apos;Afrique&quot; par Winston Churchill, est riche en biodiversité et abrite les gorilles de montagne. Son économie repose sur l&apos;agriculture et l&apos;hydroélectricité.</string>-->
+
+<!--    <string name="countryDescription11">Le Zimbabwe est connu pour ses chutes Victoria, l&apos;une des merveilles naturelles du monde. Il possède une riche histoire archéologique, notamment les ruines du Grand Zimbabwe, et une faune exceptionnelle.</string>-->
+
 </resources>

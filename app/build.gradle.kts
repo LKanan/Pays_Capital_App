@@ -62,4 +62,7 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
     implementation("io.coil-kt:coil-compose:2.5.0")
+//    viewModel
+    implementation(libs.androidx.lifecycle.viewmodel)
+    implementation(libs.androidx.navigation)
 }
